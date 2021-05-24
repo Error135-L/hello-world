@@ -5,12 +5,7 @@ Hi Everyone! I don't really know what to say.....
 <html lang="en">
   <head>
     <title> Helloe </tite>
-    <style> 
-      h1{
-      color: blue;
-      }
-    </style>
-      </head>
+  </head>
   <body>
     <h1> Hello world</h1>
     <p> My name is .... and today i am learning how to use git hub </p>
